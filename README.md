@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hrvoje200
 - 👀 I’m interested in Django
-- 🌱 I’m currently learning billing with classes(class based views) in Django and Apache + mod_wsgi deploy
-- 💞️ I’m looking to collaborate on billing with classes in Django and Appache + mod_wsgi or NGINX deploy
+- 🌱 I’m currently learning how to finish my current project in Django until the end to analyze it for next project.
+- 💞️ I’m looking to collaborate on ideas that might be profitable and simple, with payed features, so to know if idea might be profitable for business(such as webshops).
 - 📫 How to reach me: write to me on hrvojesinkovic25@gmail.com
 
 <!---
